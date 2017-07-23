@@ -1,0 +1,17 @@
+form {
+    max-width: 290px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.form-group {
+    width: 290px;
+}
+
+.output {
+    padding-top: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+
